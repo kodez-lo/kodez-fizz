@@ -1,0 +1,7 @@
+export const flavors=[
+{name:'DOUBLE LYCHEE',lines:['DOUBLE','LYCHEE'],color:'#b494ff',rgb:'180,148,255',taste:'Floral. Juicy. A little unexpected.',description:'Delicate lychee meets a bright, sparkling finish. A floral little escape from the everyday.'},
+{name:'APPLE RHUBARB',lines:['APPLE','RHUBARB'],color:'#f374c6',rgb:'243,116,198',taste:'Crisp apple. A pleasantly tart twist.',description:'Crisp apple and tangy rhubarb bring a playful balance of sweet and sharp. Made for a change of pace.'},
+{name:'APRICOT RASPBERRY',lines:['APRICOT','RASPBERRY'],color:'#ff796a',rgb:'255,121,106',taste:'Soft sunshine. Bold berry finish.',description:'Mellow apricot, bright raspberry, and a sparkling finish. A little sunshine with a colorful edge.'},
+{name:'CITRUS RUSH',lines:['CITRUS','RUSH'],color:'#d0fa72',rgb:'208,250,114',taste:'Bright. Zesty. Impossible to miss.',description:'A lively citrus blend with a crisp, zesty character. Bright from the first sip to the last bubble.'},
+{name:'BERRY AFTERGLOW',lines:['BERRY','AFTERGLOW'],color:'#ff6ea2',rgb:'255,110,162',taste:'Deep berries. A brighter ending.',description:'A rich berry blend with a fresh, sparkling twist. Deep color. Full character. A memorable finish.'},
+{name:'TROPICAL WAVE',lines:['TROPICAL','WAVE'],color:'#65dee0',rgb:'101,222,224',taste:'A tropical state of mind.',description:'A bright tropical blend with a refreshingly sparkling finish. Your own little island moment.'}];
